@@ -13,7 +13,7 @@ Spring Framework makes it easier to create Java applications by providing a lot 
 
 ## Indexed Contents
 1. Spring Framework
-    * [Introduction to Spring](https://github.com/Rajat7Codes/Learn-Spring/Tut01-Introduction) 
+    * [Introduction to Spring](https://github.com/Rajat7Codes/Learn-Spring/tree/main/Tut01-Introduction) 
     * 
 
     
